@@ -1,1 +1,3 @@
 # creating my own zomato clone page  etcc...
+This a My first HTML+CSS project which looks similar to zomato in looks but i still did not implement interactivity.
+But it is responsive.
